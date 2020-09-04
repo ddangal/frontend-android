@@ -11,10 +11,10 @@ import android.widget.EditText;
 
 public class MainActivity extends AppCompatActivity {
 
-
-    Button login=(Button)findViewById(R.id.login);
-    EditText username=(EditText) findViewById(R.id.username);
-    EditText password=(EditText) findViewById(R.id.password);
+//
+//    Button login=(Button)findViewById(R.id.login);
+//    EditText username=(EditText) findViewById(R.id.username);
+//    EditText password=(EditText) findViewById(R.id.password);
 
 //    login.setOnClickListener(new View.OnClickListener() {
 //        {
